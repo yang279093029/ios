@@ -1,0 +1,7 @@
+{ 
+     "resultCode" : 0, 
+     "record" : [
+           { "id": 1, "cDate": "2020-09-07","user" : "Tony", "contents": "Login"},
+           { "id": 2, "cDate": "2020-09-07","user" : "Tony", "contents": "Logout"} 
+     ]
+}
